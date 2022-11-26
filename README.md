@@ -38,3 +38,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Контакты:
+Telegram: @sergey_bogaev
+Email: bogaev.s@gmail.com
