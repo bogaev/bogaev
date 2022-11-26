@@ -11,6 +11,10 @@
 - Git
 - Linux
 
+Контакты:
+- Telegram: @sergey_bogaev
+- Email: bogaev.s@gmail.com
+
 Обо мне:
 В данный момент хотел бы перейти из embedded-разработки в разработку исключительно программных продуктов, т.к. согласно моему опыту именно ПО несет основную творческую и интеллектуальную ценность в разрабатываемых технических решениях и поэтому является наиболее интересной для меня.
 
@@ -23,10 +27,6 @@
 - Использовать библиотеки Boost.Asio, Boost.Beast, Boost.Log и Boost.Json
 - Подключать к проекту базу данных PostgreSQL: сохранять и читать данные из БД при помощи SQL-запросов
 - Работать с сетевыми протоколами TCP, UDP, HTTP и соединять веб-сервер с фронтендом
-
-Контакты:
-- Telegram: @sergey_bogaev
-- Email: bogaev.s@gmail.com
 
 <!--
 **bogaev/bogaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
