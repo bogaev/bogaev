@@ -2,7 +2,7 @@
 
 Моё резюме: hh.ru/resume/702f4732ff0b773d3a0039ed1f69376f776568
 
-Стек:
+#### Стек
 - C/C++
 - STL
 - Protobuf
