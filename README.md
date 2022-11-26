@@ -1,5 +1,8 @@
-### Hi there 👋
+### Привет! 👋 Меня зовут Сергей, я разработчик C, C++
 
+Моё резюме hh.ru/resume/702f4732ff0b773d3a0039ed1f69376f776568
+
+Стек:
 <!--
 **bogaev/bogaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
