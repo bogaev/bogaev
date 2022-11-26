@@ -24,6 +24,10 @@
 - Подключать к проекту базу данных PostgreSQL: сохранять и читать данные из БД при помощи SQL-запросов
 - Работать с сетевыми протоколами TCP, UDP, HTTP и соединять веб-сервер с фронтендом
 
+Контакты:
+- Telegram: @sergey_bogaev
+- Email: bogaev.s@gmail.com
+
 <!--
 **bogaev/bogaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,7 +42,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Контакты:
-Telegram: @sergey_bogaev
-Email: bogaev.s@gmail.com
